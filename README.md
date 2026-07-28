@@ -17,3 +17,7 @@ Watch the full tutorial: [رابط الفيديو على يوتيوب]
 1. Install HomeSpan library via Arduino Library Manager
 2. Update your Wi-Fi credentials in the code
 3. Upload to your ESP32
+
+## Wiring Diagram
+
+![ESP32 Relay Wiring](WIRING DIAGRAM ESP32 WITH SIRI.png)
