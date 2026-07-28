@@ -20,4 +20,4 @@ Watch the full tutorial: [رابط الفيديو على يوتيوب]
 
 ## Wiring Diagram
 
-![ESP32 Relay Wiring](WIRING DIAGRAM ESP32 WITH SIRI.png)
+![ESP32 Relay Wiring](wiring_diagram_esp32_with_relay.png)
